@@ -1,6 +1,14 @@
 # slider
 first introduction to android development. Created a very simple game, the Slider.
 
+you have the possiility to play with a friend or against the computer.
+when a button is pressed it slides an image, the first player to align 5 of his/her images win the game.
+VERY SIMPLE.
+
+
+
+
+
 I added the 'main' file that is created in Android Studio when a new project is created.
 Just replace it.
 

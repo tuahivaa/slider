@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Slide203 Endgame</string>
+    <string name="bg_music">musique de fond</string>
+    <string name="description_music_on">la musique va jouer</string>
+    <string name="description_music_off">je jeu se jouera en silence</string>
+    <string name="bg_sd_fx">effets sonores activees</string>
+    <string name="sf_on">bruits des bouttons</string>
+    <string name="sf_off">pas d effets sonore</string>
+    <string name="speed">vitesse du jeu</string>
+    <string name="speed_description">rapide comment?</string>
+    <string name="theme">theme?</string>
+    <string name="theme_description">un autre theme?</string>
+
+</resources>
